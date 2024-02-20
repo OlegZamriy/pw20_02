@@ -24,7 +24,7 @@ class Program
             Console.WriteLine(0);
         if (start <= 1 && end >= 1)
             Console.WriteLine(1);
-
+         
         while (c <= end)
         {
             if (c >= start)
